@@ -1,1 +1,3 @@
 Creato come parte del mio percorso di apprendimento per l'esame di 'Programmazione Web e Mobile' presso l'Università degli Studi di Palermo, questa repository rappresenta la mia prima incursione nelle tecnologie frontend e backend, tra cui React, EJS, Node.js ed Express. Nel corso del tempo, ho costantemente affinato e ampliato le mie competenze, un processo che continua ancora oggi.
+
+All'interno un sito web di ecommerce completamente funzionale che comprende recensioni utente e disegnato da un graphic designer professionale (unica omissione il lato di pagamento che sarebbe gestito con Shopify).
